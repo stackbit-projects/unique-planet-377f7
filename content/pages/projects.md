@@ -18,7 +18,7 @@ sections:
       *React JS, FireBase , Express JS , Material UI , NodeMailer ,
       React-FireBase-Hooks *
     actions:
-      - label: lorem-ipsum
+      - label: Check
         url: '#'
         style: link
         icon_class: dev
