@@ -1,6 +1,6 @@
 ---
 title: R.V. College of Engineering
-excerpt: MAJOR- COMPUTER SCIENCE AND ENGINEERING
+excerpt: "Major - Computer Science and Engineering\_ CGPA- 9.15 (Current)"
 date: '2019-03-27'
 thumb_img_path: /images/b82dc3_95bbcfe87df64dc38d752b9c3cada2b8_mv2.webp
 thumb_img_alt: Icelandic horses
