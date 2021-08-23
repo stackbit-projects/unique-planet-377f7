@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Checkout Project
         url: 'https://github.com/yatinsatija/RVCEx'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
