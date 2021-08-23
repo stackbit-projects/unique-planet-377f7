@@ -90,7 +90,7 @@ sections:
     actions:
       - label: Checout Project
         url: 'https://github.com/yatinsatija/Body-Language-Decoder'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
