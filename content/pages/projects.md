@@ -92,7 +92,7 @@ sections:
         url: 'https://github.com/yatinsatija/Body-Language-Decoder'
         style: button
         icon_class: github
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_hero
