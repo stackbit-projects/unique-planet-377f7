@@ -22,7 +22,7 @@ export default class SectionPosts extends React.Component {
                     {thumbImage && (
                         <Link className="post-thumbnail" href={"https://www.rvce.edu.in/"}>
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
-                        </Link>
+                        
                     )}
                     <header className="post-header">
                         <h3 className="post-title">
