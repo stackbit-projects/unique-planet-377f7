@@ -3,7 +3,7 @@ title: Projects
 hide_title: false
 excerpt: Hello
 sections:
-  - title: lorem-ipsum
+  - title: RVCEx
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
