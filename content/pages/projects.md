@@ -53,7 +53,7 @@ sections:
         type: action
     type: section_hero
   - title: E-Medic
-    section_id: lorem-ipsum
+    section_id: E-Medic
     content: >-
       ## Lorem ipsum
 
