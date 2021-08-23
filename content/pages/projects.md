@@ -113,17 +113,10 @@ sections:
     type: section_hero
   - title: MetiSchool
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      *   It is a School Review platform which target the children looking out
+      for new schools or parents looking out for some valuable advice for their
+      child's schooling. It is deployed on WIX.
     actions: []
     type: section_hero
 seo:
