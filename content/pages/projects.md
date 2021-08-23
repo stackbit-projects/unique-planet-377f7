@@ -3,7 +3,7 @@ title: Projects
 hide_title: false
 excerpt: Hello
 sections:
-  - title: lorem-ipsum
+  - title: Reinforcement Learning Based Financial Trading bot
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
