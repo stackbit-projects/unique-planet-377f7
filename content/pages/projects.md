@@ -73,7 +73,7 @@ sections:
         type: action
     type: section_hero
   - title: Body Language Decoder
-    section_id: lorem-ipsum
+    section_id: Body Language Decoder
     content: >-
       ## Lorem ipsum
 
