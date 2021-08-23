@@ -26,7 +26,7 @@ export default class SectionPosts extends React.Component {
                     )}
                     <header className="post-header">
                         <h3 className="post-title">
-                            <Link href={} rel="bookmark">{title}</Link>
+                            <Link href={"https://www.rvce.edu.in/"} rel="bookmark">{title}</Link>
                         </h3>
                     </header>
                     {excerpt && (
