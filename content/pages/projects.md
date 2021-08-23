@@ -96,7 +96,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: CARV Official Website
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
