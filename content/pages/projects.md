@@ -91,7 +91,7 @@ sections:
       - label: Checout Project
         url: 'https://github.com/yatinsatija/Body-Language-Decoder'
         style: button
-        icon_class: dev
+        icon_class: github
         new_window: false
         no_follow: false
         type: action
