@@ -103,7 +103,7 @@ sections:
 
       **Tools: *"HTML , CSS , Javascript , Bootstrap"***
     actions:
-      - label: Chec
+      - label: Checkout Website
         url: '#'
         style: link
         icon_class: dev
