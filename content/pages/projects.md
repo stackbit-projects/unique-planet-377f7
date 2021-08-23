@@ -120,7 +120,7 @@ sections:
     actions:
       - label: CHECKOUT WEBSITE
         url: 'https://ornabroll.wixsite.com/metischool'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
