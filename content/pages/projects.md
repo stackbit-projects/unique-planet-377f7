@@ -105,7 +105,7 @@ sections:
     actions:
       - label: Checkout Website
         url: 'https://carvhindi.club/'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
