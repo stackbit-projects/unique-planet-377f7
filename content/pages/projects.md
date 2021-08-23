@@ -52,7 +52,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: E-Medic
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
