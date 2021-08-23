@@ -44,7 +44,8 @@ sections:
       ******
     actions:
       - label: Checkout Project
-        url: '#'
+        url: >-
+          https://github.com/yatinsatija/Reinforcement_Learning_based_financial_Trading_Bot
         style: link
         icon_class: dev
         new_window: false
