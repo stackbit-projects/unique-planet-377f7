@@ -119,7 +119,7 @@ sections:
       child's schooling. It is deployed on WIX.
     actions:
       - label: CHECKOUT WEBSITE
-        url: '#'
+        url: 'https://ornabroll.wixsite.com/metischool'
         style: link
         icon_class: dev
         new_window: false
