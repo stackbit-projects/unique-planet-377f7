@@ -65,7 +65,7 @@ sections:
       ***"React JS , Express JS , Tesseract CDN , TomTomMaps API , Firebase"***
     actions:
       - label: Checkout Project
-        url: '#'
+        url: 'https://github.com/yatinsatija/E-Medic'
         style: link
         icon_class: dev
         new_window: false
