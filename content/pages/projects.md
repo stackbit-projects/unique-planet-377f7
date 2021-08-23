@@ -26,7 +26,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Reinfo
+  - title: 'Reinforcement Learning '
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
