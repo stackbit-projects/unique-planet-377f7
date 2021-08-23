@@ -26,7 +26,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: lorem-ipsum
+  - title: Reinfo
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
