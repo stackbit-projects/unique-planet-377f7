@@ -107,7 +107,7 @@ sections:
         url: 'https://carvhindi.club/'
         style: button
         icon_class: dev
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_hero
