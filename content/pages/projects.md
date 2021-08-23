@@ -26,7 +26,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: 'Reinforcement Learning '
+  - title: Reinforcement Learning Based Financial Trading
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
