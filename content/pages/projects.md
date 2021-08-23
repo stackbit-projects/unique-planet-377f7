@@ -15,8 +15,8 @@ sections:
       ##### **Tools:**
 
 
-      **React JS, FireBase , Express JS , Material UI , NodeMailer ,
-      React-FireBase-Hooks **
+      **"React JS, FireBase , Express JS , Material UI , NodeMailer ,
+      React-FireBase-Hooks "**
     actions:
       - label: Checkout Project
         url: 'https://github.com/yatinsatija/RVCEx'
