@@ -5,7 +5,7 @@ excerpt: Hello
 sections:
   - title: Reinforcement Learning Based Financial Trading bot
     section_id: RL Bot
-    posts_number: 0
+    posts_number: 1
     actions:
       - label: lorem-ipsum
         url: '#'
