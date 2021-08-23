@@ -3,7 +3,7 @@ title: PAST EXPERIENCE
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: Fidelity Inve
+  - title: Fidelity Investments
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
