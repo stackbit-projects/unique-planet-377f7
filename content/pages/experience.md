@@ -1,5 +1,5 @@
 ---
-title: PAST EXPERIENCE AND Vo
+title: PAST EXPERIENCE AND VOLUNTEERING
 hide_title: false
 excerpt: lorem-ipsum
 sections: []
