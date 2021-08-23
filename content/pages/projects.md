@@ -74,17 +74,19 @@ sections:
     type: section_hero
   - title: Body Language Decoder
     section_id: Body Language Decoder
-    content: >-
-      ## Lorem ipsum
+    content: >
+      The proposed work aims to leverage state of the art body, facial and hand
+      landmark extraction frameworks to come up with a custom machine learning
+      model which is capable of recognising the type of action being performed
+      in the video source.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **Tools:**
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      ***"Mediapipe , Opencv-python , Scikit learn classifiers -
+      LogisticRegression, RidgeClassifier, RandomForestClassifier,
+      GradientBoostingClassifier"***
     actions: []
     type: section_hero
 seo:
