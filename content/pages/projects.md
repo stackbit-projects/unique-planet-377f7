@@ -26,7 +26,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-  - title: Reinforcement Learning Based Financial Trading
+  - title: RL Trading Bot
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
