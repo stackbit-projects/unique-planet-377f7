@@ -68,7 +68,7 @@ sections:
       ##### **Tools:**
 
 
-      > **React JS , Express JS , Tesseract CDN , TomTomMaps API , Firebase**
+      ***"React JS , Express JS , Tesseract CDN , TomTomMaps API , Firebase"***
     actions: []
     type: section_hero
 seo:
