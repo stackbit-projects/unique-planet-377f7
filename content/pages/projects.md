@@ -18,7 +18,7 @@ sections:
       *React JS, FireBase , Express JS , Material UI , NodeMailer ,
       React-FireBase-Hooks *
     actions:
-      - label: Check
+      - label: Checkout Project
         url: '#'
         style: link
         icon_class: dev
