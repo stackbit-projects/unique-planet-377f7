@@ -1,5 +1,5 @@
 ---
-title: PAST EXPERIENCE
+title: 'PAST EXPERIENCE '
 hide_title: false
 excerpt: lorem-ipsum
 sections: []
