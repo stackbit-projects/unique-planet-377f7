@@ -117,7 +117,14 @@ sections:
       *   It is a School Review platform which target the children looking out
       for new schools or parents looking out for some valuable advice for their
       child's schooling. It is deployed on WIX.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
 seo:
   title: ''
