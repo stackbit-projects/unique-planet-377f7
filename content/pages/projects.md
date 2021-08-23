@@ -5,17 +5,21 @@ excerpt: Hello
 sections:
   - title: RVCEx
     section_id: RVCEx
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # RVCEx
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      The system is developed for college or university with intended users
+      being students and can be also extended for teachers and research
+      scholars. A system to provide materialistic and non materialistic
+      assistance to fellow students in need has been developed.
 
 
-      - Lorem ipsum
+      ## Tools: 
 
-      - dolor sit amet
+
+      *React JS, FireBase , Express JS , Material UI , NodeMailer ,
+      React-FireBase-Hooks *
     actions: []
     type: section_hero
 seo:
