@@ -104,7 +104,7 @@ sections:
       **Tools: *"HTML , CSS , Javascript , Bootstrap"***
     actions:
       - label: Checkout Website
-        url: '#'
+        url: 'https://carvhindi.club/'
         style: link
         icon_class: dev
         new_window: false
