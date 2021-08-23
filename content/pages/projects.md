@@ -88,7 +88,7 @@ sections:
       LogisticRegression, RidgeClassifier, RandomForestClassifier,
       GradientBoostingClassifier"***
     actions:
-      - label: Checout Project
+      - label: Checkout Project
         url: 'https://github.com/yatinsatija/Body-Language-Decoder'
         style: button
         icon_class: github
