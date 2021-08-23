@@ -3,7 +3,7 @@ title: PAST EXPERIENCE
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Fidelity Inve
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
