@@ -1,9 +1,6 @@
 ---
 title: R.V. College of Engineering
-excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+excerpt: MAJOR- COMPUTER SCIENCE AND ENGINEERING
 date: '2019-03-27'
 thumb_img_path: /images/b82dc3_95bbcfe87df64dc38d752b9c3cada2b8_mv2.webp
 thumb_img_alt: Icelandic horses
