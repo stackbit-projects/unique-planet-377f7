@@ -54,17 +54,21 @@ sections:
     type: section_hero
   - title: E-Medic
     section_id: E-Medic
-    content: >-
-      ## Lorem ipsum
+    content: >
+      The main objective is to provide a user friendly web based platform for
+      the end-users which integrates both E-Pharmacy and E-Consulting.
+      E-Pharmacy should involve e-commerce like platform with an OCR based text
+      extraction for extracting data from prescriptions which can be validated
+      by a staff for confirming the order. E-Consultancy should facilitate
+      online based advisory consulting for the patient to get an idea about the
+      severity of his/her health condition based on the advice which the doctor
+      generates.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ##### **Tools:**
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      > **React JS , Express JS , Tesseract CDN , TomTomMaps API , Firebase**
     actions: []
     type: section_hero
 seo:
