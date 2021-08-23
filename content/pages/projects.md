@@ -28,17 +28,20 @@ sections:
     type: section_hero
   - title: RL Trading Bot
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Introducing Automation in Financial Trading of assets using Reinforcement
+      Learning where the agent will be able to perform actions in the custom
+      trading environment using an actor critic approach.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ##### **Key Terminologies:**
 
 
-      - Lorem ipsum
+      **" *Deep Reinforcement Learning (DRL), Actor-Critic approach, policy,
+      Q-Learning, action-space"***
 
-      - dolor sit amet
+
+      ******
     actions: []
     type: section_hero
 seo:
