@@ -2,7 +2,12 @@
 title: PAST EXPERIENCE
 hide_title: false
 excerpt: lorem-ipsum
-sections: []
+sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 seo:
   title: ''
   description: ''
