@@ -88,7 +88,7 @@ sections:
       LogisticRegression, RidgeClassifier, RandomForestClassifier,
       GradientBoostingClassifier"***
     actions:
-      - label: lorem-ipsum
+      - label: Checout Project
         url: '#'
         style: link
         icon_class: dev
