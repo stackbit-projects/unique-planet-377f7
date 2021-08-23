@@ -103,7 +103,7 @@ sections:
 
       **Tools: *"HTML , CSS , Javascript , Bootstrap"***
     actions:
-      - label: lorem-ipsum
+      - label: Chec
         url: '#'
         style: link
         icon_class: dev
