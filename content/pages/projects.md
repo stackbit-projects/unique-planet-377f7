@@ -6,16 +6,13 @@ sections:
   - title: RVCEx
     section_id: RVCEx
     content: >
-      # RVCEx
-
-
       The system is developed for college or university with intended users
       being students and can be also extended for teachers and research
       scholars. A system to provide materialistic and non materialistic
       assistance to fellow students in need has been developed.
 
 
-      ## Tools: 
+      ##### **Tools:**
 
 
       *React JS, FireBase , Express JS , Material UI , NodeMailer ,
