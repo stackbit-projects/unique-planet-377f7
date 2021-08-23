@@ -4,7 +4,7 @@ hide_title: false
 excerpt: Hello
 sections:
   - title: RVCEx
-    section_id: lorem-ipsum
+    section_id: RVCEx
     content: >-
       ## Lorem ipsum
 
