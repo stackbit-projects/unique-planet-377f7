@@ -118,7 +118,7 @@ sections:
       for new schools or parents looking out for some valuable advice for their
       child's schooling. It is deployed on WIX.
     actions:
-      - label: Checkout Website
+      - label: CHECKOUT WEBSITE
         url: '#'
         style: link
         icon_class: dev
