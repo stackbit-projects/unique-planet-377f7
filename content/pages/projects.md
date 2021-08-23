@@ -101,9 +101,7 @@ sections:
     content: |
       This is the official website for CARV Hindi club of our college.
 
-      **Tools:**
-
-      ***"HTML , CSS , Javascript , Bootstrap"***
+      **Tools: *"HTML , CSS , Javascript , Bootstrap"***
     actions: []
     type: section_hero
 seo:
