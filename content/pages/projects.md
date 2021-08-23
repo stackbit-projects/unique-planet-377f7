@@ -98,17 +98,12 @@ sections:
     type: section_hero
   - title: CARV Official Website
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      This is the official website for CARV Hindi club of our college.
 
+      **Tools:**
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ***"HTML , CSS , Javascript , Bootstrap"***
     actions: []
     type: section_hero
 seo:
