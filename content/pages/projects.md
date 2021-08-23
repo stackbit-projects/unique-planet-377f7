@@ -48,7 +48,7 @@ sections:
           https://github.com/yatinsatija/Reinforcement_Learning_based_financial_Trading_Bot
         style: button
         icon_class: github
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_hero
