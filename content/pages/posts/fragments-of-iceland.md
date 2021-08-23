@@ -1,6 +1,6 @@
 ---
 title: R.V. College of Engineering
-excerpt: "Major - Computer Science and Engineering\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ CGPA- 9.15 (Current)\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ No.of Active Backlogs - 0\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Year of Passing Out -2022"
+excerpt: "Major - Computer Science and Engineering\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_CGPA- 9.15 (Current)\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ No.of Active Backlogs - 0\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Year of Passing Out -2022"
 date: '2019-03-27'
 thumb_img_path: /images/b82dc3_95bbcfe87df64dc38d752b9c3cada2b8_mv2.webp
 thumb_img_alt: Icelandic horses
