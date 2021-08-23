@@ -89,7 +89,7 @@ sections:
       GradientBoostingClassifier"***
     actions:
       - label: Checout Project
-        url: '#'
+        url: 'https://github.com/yatinsatija/Body-Language-Decoder'
         style: link
         icon_class: dev
         new_window: false
