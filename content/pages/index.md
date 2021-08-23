@@ -11,11 +11,12 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      B.E. Computer Science student with deep interest in Full Stack Web
+      Development , Machine Learning and Quantum Computing. I am a hardworking
+      and dedicated guy who has the passion to learn and explore new things. I
+      have hands on experience with various tech stacks like React.js , Node.js
+      , Django ,etc.
     actions:
       - label: Contact Me
         url: /contact
