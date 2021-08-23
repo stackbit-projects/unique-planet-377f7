@@ -38,7 +38,7 @@
             },
             {
                 "label": "PROJECTS",
-                "url": "/pr",
+                "url": "/projects/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
