@@ -43,7 +43,7 @@ sections:
 
       ******
     actions:
-      - label: lorem-ipsum
+      - label: Checkout Project
         url: '#'
         style: link
         icon_class: dev
