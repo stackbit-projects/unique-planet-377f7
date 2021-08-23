@@ -57,15 +57,9 @@ sections:
     content: >
       The main objective is to provide a user friendly web based platform for
       the end-users which integrates both E-Pharmacy and E-Consulting.
-      E-Pharmacy should involve e-commerce like platform with an OCR based text
-      extraction for extracting data from prescriptions which can be validated
-      by a staff for confirming the order. E-Consultancy should facilitate
-      online based advisory consulting for the patient to get an idea about the
-      severity of his/her health condition based on the advice which the doctor
-      generates.
 
 
-      ##### **Tools:**
+      **Tools:**
 
 
       ***"React JS , Express JS , Tesseract CDN , TomTomMaps API , Firebase"***
