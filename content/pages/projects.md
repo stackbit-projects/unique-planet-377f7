@@ -19,7 +19,7 @@ sections:
       React-FireBase-Hooks *
     actions:
       - label: Checkout Project
-        url: '#'
+        url: 'https://github.com/yatinsatija/RVCEx'
         style: link
         icon_class: dev
         new_window: false
