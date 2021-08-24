@@ -10,12 +10,7 @@ sections:
 
       *   Worked as a Full Stack Web Developer Intern for 2 months.
 
-
       *   Designed an API for Distributed Cache Management System.
-
-
-     
-
 
       *   Upgraded the existing ExtremeScale cache API to AWS Elasticache cloud
       API
