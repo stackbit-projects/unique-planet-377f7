@@ -9,17 +9,10 @@ sections:
       ![](/images/fidelity-investments.jpeg)
 
 
-      *   I worked as a Full Stack Web Developer Intern
-
-
-      *   Created an API for Distributed Caching System.
-
-
-      *   Upgraded the existing ExtremeScale cache API to AWS Elasticache cloud
-      API.
-
-
-      *   Integrated the existing functionality  to frontend utility.
+      I worked as a Full Stack Web Developer Intern , created an API for
+      Distributed Caching System , upgraded the existing ExtremeScale cache API
+      to AWS Elasticache cloud API and integrated the existing functionality  to
+      frontend utility.
     actions: []
     type: section_hero
 seo:
