@@ -55,17 +55,8 @@ sections:
     type: section_hero
   - title: CARV Hindi
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      ![](/images/download.jpeg)
     actions: []
     type: section_hero
 seo:
