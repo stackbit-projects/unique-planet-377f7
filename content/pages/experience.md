@@ -47,17 +47,10 @@ sections:
     type: section_hero
   - title: S.P.A.R.K NGO
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## ![](/images/1595162244545.jpeg)
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Student Volunteer at SPARK NGO 
     actions: []
     type: section_hero
 seo:
