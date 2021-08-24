@@ -15,7 +15,7 @@ sections:
       frontend utility.
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Grant Thornton
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
