@@ -28,17 +28,13 @@ sections:
     type: section_hero
   - title: CIRQuIT RVCE
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ![](/images/Screenshot%202021-08-24%20at%2010.36.46%20AM.png)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Worked as a Research Intern , worked with Quantum Machine Learning Models
+      and Quantum Algorithms , got hands on experience with IBM Qiskit , worked
+      with Pennylane and Tensorflow Quantum.
     actions: []
     type: section_hero
 seo:
