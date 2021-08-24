@@ -53,7 +53,7 @@ sections:
       Student Volunteer at SPARK NGO 
     actions: []
     type: section_hero
-  - title: Rooters Mobility Pvt. Ltd.
+  - title: CARV Hindi
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
