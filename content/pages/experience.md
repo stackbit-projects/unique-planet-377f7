@@ -3,7 +3,7 @@ title: Past Experience and Volunteering
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Fidelity Investments
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
