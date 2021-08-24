@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me .
-img_path: images/about.jpg
+img_path: /images/IMG_20210812_141346_Bokeh.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
