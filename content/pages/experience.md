@@ -39,17 +39,10 @@ sections:
     type: section_hero
   - title: Teens of God NGO
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ![](/images/GQ0bh2tZqurBJ1\_large.png)
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Volunteering as a Teaching Assistant for Maths and Physics  
     actions: []
     type: section_hero
 seo:
