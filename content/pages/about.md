@@ -36,7 +36,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to act, I like to play; I like to think, I like to dream; I like to watch movies, I like to listen. I like to see the sunrise in the morning. I believe one cannot give up without giving a try , Everything you want  , doesn't matter how difficult it is to achieve , is worth an attempt . It's a matter of just believing in yourself. 
+I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to act, I like to play; I like to think, I like to dream; I like to watch movies, I like to listen. I like to see the sunrise in the morning. I believe one cannot give up without giving a try , Everything you want  , doesn't matter how difficult it is to achieve , is worth an attempt . It's a matter of just believing in yourself.
+
+I am a Tech Enthusiast who is deeply interested in Web Development , Artificial Intelligence and Machine Learning , Quantum Computing , etc. Checkout my projects and experience section for getting a better idea about me.  
 
 As a hobby, I love to play football and sometimes do cooking.
 
