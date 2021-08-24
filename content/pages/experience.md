@@ -6,7 +6,7 @@ sections:
   - title: Fidelity Investments
     section_id: lorem-ipsum
     content: >
-      ![](/images/fidelity-investments.jpeg)
+      ![](/images/fidelity-logo.png)
 
 
       I worked as a Full Stack Web Developer Intern , created an API for
