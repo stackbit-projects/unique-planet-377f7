@@ -53,7 +53,7 @@ sections:
       Student Volunteer at SPARK NGO 
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Rooters Mobility Pvt. Ltd.
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
