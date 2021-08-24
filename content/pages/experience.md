@@ -37,7 +37,7 @@ sections:
       with Pennylane and Tensorflow Quantum.
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: Teens of God NGO
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
