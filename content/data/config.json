@@ -17,14 +17,27 @@
                 "style": "link"
             },
             {
+                "label": "PROJECTS",
+                "url": "/projects/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
+                "label": "Past Experience and Volunteering",
+                "url": "/experience/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "About",
