@@ -4,17 +4,7 @@ hide_title: false
 sections:
   - title: Get in touch
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "If there's anything you want to talk about with me feel free to drop me a line by email. I'm happy to hear your comments, feedback, suggestions, or just say hi!\n\n*   Email:\_yatinsatija2@gmail.com\n\n*   Github:\_@yatinsatija\n\n*   LinkedIn:\_@yatin-satija\n"
     actions: []
     type: section_hero
 seo:
