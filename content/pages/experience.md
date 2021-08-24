@@ -26,7 +26,7 @@ sections:
       report on "Emerging Cyber Security Trends" and "Smart Grid Technology"
     actions: []
     type: section_hero
-  - title: CIRC
+  - title: CIRQuIT RVCE
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
