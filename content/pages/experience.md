@@ -17,17 +17,13 @@ sections:
     type: section_hero
   - title: Grant Thornton India LLP
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ![](/images/download%20\(4\).png)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Worked as a Research Intern at IT Risk Department , gained knowledge about
+      Vulnerability Assessment and Penetration Testing , prepared detailed
+      report on "Emerging Cyber Security Trends" and "Smart Grid Technology"
     actions: []
     type: section_hero
 seo:
