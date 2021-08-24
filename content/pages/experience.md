@@ -45,7 +45,7 @@ sections:
       Volunteering as a Teaching Assistant for Maths and Physics  
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: S.P.A.R.K NGO
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
