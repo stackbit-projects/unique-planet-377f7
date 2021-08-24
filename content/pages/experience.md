@@ -55,8 +55,12 @@ sections:
     type: section_hero
   - title: CARV Hindi
     section_id: lorem-ipsum
-    content: |
+    content: >
       ![](/images/download.jpeg)
+
+
+      Working as a Technical Head at CARV Hindi club at RVCE Bangalore ,
+      previously worked as a Actor for 3 years.
     actions: []
     type: section_hero
 seo:
